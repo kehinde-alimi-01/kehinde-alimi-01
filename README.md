@@ -1,6 +1,6 @@
 # Hi, I'm Kehinde (Kenny) Alimi 👋
 
-**Data Analyst & Project Lead** at East London NHS Foundation Trust with **7+ years** in data and analytics, turning multi-source healthcare and operational data into decisions.
+**Data Analyst & Project Lead** at East London NHS Foundation Trust with **7+ years** in data and technology, turning multi-source healthcare and operational data into decisions.
 
 - 🏥 I own reporting and data-quality assurance for a Trust-wide NHS service: Patient Level Data submissions to NHS England, Power BI dashboards and incident-trend reporting
 - 🚀 Project Lead for a new NHS community service across Bedford & Central Bedfordshire: 3 clinics, referral tracking, commissioner reporting, DPIA approval, 60+ staff trained
